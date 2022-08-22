@@ -2,7 +2,7 @@
     {
         "url": "https://github.com/sxrvph/online-store-api/blob/main/t-shirt1.jpg?raw=true",
         "title": "Луи Ыитон",
-        "description": "100% полиэстер, Размеры: S, M, L, XL",
+        "description": "00% полиэстер, Размеры: S, M, L, XL",
         "price": "$300",
         "id": "1",
         "isFavorite": false
@@ -11,63 +11,63 @@
         "url": "https://img.joomcdn.net/2a71dcb66dfe3763e4fa015de862507bddce5a4d_original.jpeg",
         "title": "St. Martins Tee",
         "description": "100% полиэстер, Размеры: S, M, L, XL",
-        "price": "$100",
+        "price": "100",
         "id": "2",
         "isFavorite": false
     },
     {
-        "url": "https://github.com/mahmud-sajib/ecommerce-store-product-data/blob/master/t-shirt3.jpg?raw=true",
+        "url": "https://github.com/sxrvph/online-store-api/blob/main/t-shirt3.jpg?raw=true",
         "title": "Bora Bora Tee",
         "description": "100% полиэстер, Размеры: S, M, L, XL",
-        "price": "$50",
+        "price": "50",
         "id": "3",
         "isFavorite": false
     },
     {
-        "url": "https://github.com/mahmud-sajib/ecommerce-store-product-data/blob/master/t-shirt4.jpg?raw=true",
+        "url": "https://github.com/sxrvph/online-store-api/blob/main/t-shirt4.jpg?raw=true",
         "title": "Palawan Tee",
         "description": "100% полиэстер, Размеры: S, M, L, XL",
-        "price": "$100",
+        "price": "100",
         "id": "4",
         "isFavorite": false
     },
     {
-        "url": "https://github.com/mahmud-sajib/ecommerce-store-product-data/blob/master/t-shirt5.jpg?raw=true",
+        "url": "https://github.com/sxrvph/online-store-api/blob/main/t-shirt5.jpg?raw=true",
         "title": "Santorini Tee",
         "description": "100% полиэстер, Размеры: S, M, L, XL",
-        "price": "$200",
+        "price": "200",
         "id": "5",
         "isFavorite": false
     },
     {
-        "url": "https://github.com/mahmud-sajib/ecommerce-store-product-data/blob/master/t-shirt6.jpg?raw=true",
+        "url": "https://github.com/sxrvph/online-store-api/blob/main/t-shirt1.jpg?raw=true",
         "title": "Bali Tee",
         "description": "100% полиэстер, Размеры: S, M, L, XL",
-        "price": "$150",
+        "price": "150",
         "id": "6",
         "isFavorite": false
     },
     {
-        "url": "https://github.com/mahmud-sajib/ecommerce-store-product-data/blob/master/t-shirt7.jpg?raw=true",
+        "url": "https://github.com/sxrvph/online-store-api/blob/main/t-shirt1.jpg?raw=true",
         "title": "Fizi Tee",
         "description": "100% полиэстер, Размеры: S, M, L, XL",
-        "price": "$165",
+        "price": "165",
         "id": "7",
         "isFavorite": false
     },
     {
-        "url": "https://github.com/mahmud-sajib/ecommerce-store-product-data/blob/master/t-shirt8.jpg?raw=true",
+        "url": "https://github.com/sxrvph/online-store-api/blob/main/t-shirt1.jpg?raw=true",
         "title": "St. Lucia Tee",
         "description": "100% полиэстер, Размеры: S, M, L, XL",
-        "price": "$100",
+        "price": "100",
         "id": "8",
         "isFavorite": false
     },
     {
-        "url": "https://github.com/mahmud-sajib/ecommerce-store-product-data/blob/master/t-shirt9.jpg?raw=true",
+        "url": "https://github.com/sxrvph/online-store-api/blob/main/t-shirt1.jpg?raw=true",
         "title": "Bahamas Tee",
         "description": "100% полиэстер, Размеры: S, M, L, XL",
-        "price": "$150",
+        "price": "150",
         "id": "9",
         "isFavorite": false
     }
