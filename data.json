@@ -2,7 +2,7 @@
     {
         "url": "https://github.com/sxrvph/online-store-api/blob/main/t-shirt1.jpg?raw=true",
         "title": "Луи Ыитон",
-        "description": "00% полиэстер, Размеры: S, M, L, XL",
+        "description": "100% полиэстер, Размеры: S, M, L, XL",
         "price": "$300",
         "id": "1",
         "isFavorite": false
