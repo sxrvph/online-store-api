@@ -9,7 +9,7 @@
     },
     {
         "url": "https://github.com/sxrvph/online-store-api/blob/main/t-shirt2.jpg?raw=true",
-        "title": "St. Martins Tee",
+        "title": "Аниме",
         "description": "100% полиэстер, Размеры: S, M, L, XL",
         "price": "100",
         "id": "2",
@@ -17,7 +17,7 @@
     },
     {
         "url": "https://github.com/sxrvph/online-store-api/blob/main/t-shirt3.jpg?raw=true",
-        "title": "Bora Bora Tee",
+        "title": "Пивозавр",
         "description": "100% полиэстер, Размеры: S, M, L, XL",
         "price": "50",
         "id": "3",
@@ -25,7 +25,7 @@
     },
     {
         "url": "https://github.com/sxrvph/online-store-api/blob/main/t-shirt4.jpg?raw=true",
-        "title": "Palawan Tee",
+        "title": "Гучи",
         "description": "100% полиэстер, Размеры: S, M, L, XL",
         "price": "100",
         "id": "4",
@@ -33,39 +33,39 @@
     },
     {
         "url": "https://github.com/sxrvph/online-store-api/blob/main/t-shirt5.jpg?raw=true",
-        "title": "Santorini Tee",
+        "title": "Roblox",
         "description": "100% полиэстер, Размеры: S, M, L, XL",
         "price": "200",
         "id": "5",
         "isFavorite": false
     },
     {
-        "url": "https://github.com/sxrvph/online-store-api/blob/main/t-shirt1.jpg?raw=true",
-        "title": "Bali Tee",
+        "url": "https://github.com/sxrvph/online-store-api/blob/main/t-shirt6.jpg?raw=true",
+        "title": "Белая футболка",
         "description": "100% полиэстер, Размеры: S, M, L, XL",
         "price": "150",
         "id": "6",
         "isFavorite": false
     },
     {
-        "url": "https://github.com/sxrvph/online-store-api/blob/main/t-shirt1.jpg?raw=true",
-        "title": "Fizi Tee",
+        "url": "https://github.com/sxrvph/online-store-api/blob/main/t-shirt7.jpg?raw=true",
+        "title": "Черная футболка",
         "description": "100% полиэстер, Размеры: S, M, L, XL",
         "price": "165",
         "id": "7",
         "isFavorite": false
     },
     {
-        "url": "https://github.com/sxrvph/online-store-api/blob/main/t-shirt1.jpg?raw=true",
-        "title": "St. Lucia Tee",
+        "url": "https://github.com/sxrvph/online-store-api/blob/main/t-shirt8.jpg?raw=true",
+        "title": "Deftones",
         "description": "100% полиэстер, Размеры: S, M, L, XL",
         "price": "100",
         "id": "8",
         "isFavorite": false
     },
     {
-        "url": "https://github.com/sxrvph/online-store-api/blob/main/t-shirt1.jpg?raw=true",
-        "title": "Bahamas Tee",
+        "url": "https://github.com/sxrvph/online-store-api/blob/main/t-shirt9.jpg?raw=true",
+        "title": "Asap",
         "description": "100% полиэстер, Размеры: S, M, L, XL",
         "price": "150",
         "id": "9",
